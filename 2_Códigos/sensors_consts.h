@@ -1,0 +1,1 @@
+#define HDMI "--adev hdmi "
